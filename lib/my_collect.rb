@@ -1,4 +1,4 @@
 my_collect(collection)
-my_colle
+collection.
   end
 end
