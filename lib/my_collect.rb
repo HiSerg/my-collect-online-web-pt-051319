@@ -1,4 +1,5 @@
 my_collect(collection)
-collection.collect |lang|
-lang.upcase
+  my_collect(collection) do |lang|
+    lang.upcase
+  end
 end
