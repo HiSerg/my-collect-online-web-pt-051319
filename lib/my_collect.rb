@@ -1,3 +1,4 @@
 my_collect(collection)
-collection.collect \
+collection.collect |lang|
+lang.upcase
 end
