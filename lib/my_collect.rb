@@ -1,4 +1,3 @@
 my_collect(collection)
-collection.
-  end
+collection.collect \
 end
